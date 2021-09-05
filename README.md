@@ -1,6 +1,8 @@
 # SpotLyrics
 ## *A Lyrical Music APP*
 Flutter App Using Bloc Structure with MusixMatch's API 
+## Demo
+![SpotLyrics](https://github.com/iamtheindian/SpotLyrics/blob/master/demogif.gif)
 ## Getting Started
 ### Tree Structure of Lib Folder
 ```
