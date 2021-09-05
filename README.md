@@ -1,10 +1,9 @@
 # SpotLyrics
-*A Lyrical Music APP*
-
+## *A Lyrical Music APP*
+Flutter App Using Bloc Structure with MusixMatch's API 
 ## Getting Started
-
-`
 ### Tree Structure of Lib Folder
+```
 │   main.dart
 │
 └───src
@@ -26,4 +25,11 @@
     └───ui
             music_detail.dart
             music_list.dart
-`
+```
+
+### To Checkout
+#### Clone this Repo and then inside the Repo run this
+`flutter create .` 
+
+#### AfterWords you can run as usual
+`flutter run -d <deviceId> --no-sound-null-safety`
